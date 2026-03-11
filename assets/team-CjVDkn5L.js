@@ -1,1 +1,0 @@
-const e=[{barbier_id:1,naam:"De Huishoud Barbier",specialisatie:"Baard- en snorverzorging, straight razor shaves",korte_bio:"Het salon heeft een gespecialiseerde barbier in huis die zorgt voor optimale verzorging van de baard en snor. Het team volgt regelmatig opleidingen om expertise te verbeteren.",profielfoto_url:"",directe_boekingslink:""}];export{e as default};

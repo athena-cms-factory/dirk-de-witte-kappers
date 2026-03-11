@@ -1,1 +1,0 @@
-const e=[{bedrijfsnaam:"Dirk De Witte Kappers",adres:"Bondgenotenlaan 5, 3000 Leuven",telefoonnummer:"016-65.26.95",emailadres:"info@dirkdewittekappers.be",openingstijden_info:"Maandag t/m Vrijdag 9:00 - 19:00, Zaterdag 8:00 - 18:00",boekings_url:""}];export{e as default};
